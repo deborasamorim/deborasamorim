@@ -21,8 +21,5 @@ Estou sempre aberta a novas conexões, aprendizados e oportunidades. Sinta-se à
 
 Email: deboraamorim855@gmail.com
 
-✨ Um Pouco Mais Sobre Mim
-Fora do código, adoro ler livros, assistir vídeos, ficar com a minha família. Acredito que a curiosidade e a paixão por aprender são os motores para o crescimento, tanto pessoal quanto profissional.
-
 Feito com ❤️ por Débora.
 
