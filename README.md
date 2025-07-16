@@ -1,9 +1,7 @@
 ## Olá 👋
 
 🌟 Sou Débora Amorim – Em Transição para Desenvolvedora Full Stack 🚀
-Sou uma profissional da área da saúde, apaixonada em aprender coisas novas, que decidiu embarcar na emocionante jornada da tecnologia como Desenvolvedora Full Stack.
-
-Minha experiência anterior me ensinou a resolução de problemas, pensamento analítico, foco no usário, comunicação eficaz, habilidades que hoje aplico com dedicação na construção de soluções robustas e inovadoras no mundo da programação.
+Apaixonada em aprender coisas novas, decidi embarcar na emocionante jornada da tecnologia como Desenvolvedora Full Stack.
 
 🌱 Minha Jornada de Aprendizado
 Estou constantemente aprendendo e aprimorando minhas habilidades em todo o ecossistema de desenvolvimento web. Minha transição de carreira é impulsionada por uma sede de conhecimento e o desejo de construir coisas incríveis.
