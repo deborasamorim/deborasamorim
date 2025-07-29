@@ -8,11 +8,7 @@ Estou constantemente aprendendo e aprimorando minhas habilidades em todo o ecoss
 
 Atualmente focada em:
 
-- Frontend: HTML, CSS (incluindo frameworks como Bootstrap/Tailwind CSS), JavaScript (ES6+), React.js (ou outro framework/biblioteca que esteja aprendendo).
-
-- Backend: Node.js (com Express.js), Python (com Django/Flask) - (Escolha a stack que você está focando).
-
-- Banco de Dados: PostgreSQL, MongoDB (Escolha os que você está aprendendo).
+- Frontend: HTML, CSS (incluindo frameworks como Bootstrap/Tailwind CSS), JavaScript (ES6+), React.js.
 
 - Controle de Versão: Git & GitHub.
 
