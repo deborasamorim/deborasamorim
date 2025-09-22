@@ -1,21 +1,16 @@
-## Olá 👋
+Hello 👋
 
-🌟 Sou Débora Amorim – Em Transição para Desenvolvedora Full Stack 🚀
-Apaixonada em aprender coisas novas, decidi embarcar na emocionante jornada da tecnologia como Desenvolvedora Full Stack.
+🌟 I'm Débora Amorim – Transitioning to a Full Stack Developer 🚀 Passionate about learning new things, I decided to embark on the exciting journey into technology as a Full Stack Developer.
 
-🌱 Minha Jornada de Aprendizado
-Estou constantemente aprendendo e aprimorando minhas habilidades em todo o ecossistema de desenvolvimento web. Minha transição de carreira é impulsionada por uma sede de conhecimento e o desejo de construir coisas incríveis.
+🌱 My Learning Journey
+I'm constantly learning and improving my skills across the entire web development ecosystem. My career transition is driven by a thirst for knowledge and a desire to build incredible things.
 
-Atualmente focada em:
+Currently focused on:
+Frontend: HTML, CSS (including frameworks like Bootstrap/Tailwind CSS), JavaScript (ES6+), React.js.
+Version Control: Git & GitHub.
 
-- Frontend: HTML, CSS (incluindo frameworks como Bootstrap/Tailwind CSS), JavaScript (ES6+), React.js.
-
-- Controle de Versão: Git & GitHub.
-
-🌐 Conecte-se Comigo!
-Estou sempre aberta a novas conexões, aprendizados e oportunidades. Sinta-se à vontade para entrar em contato!
-
+🌐 Connect with Me!
+I'm always open to new connections, learning, and opportunities. Feel free to get in touch!
 Email: deboraamorim855@gmail.com
 
-Feito com ❤️ por Débora.
-
+Made with ❤️ by Débora.
