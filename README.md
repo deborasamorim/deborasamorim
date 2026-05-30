@@ -1,3 +1,10 @@
+# Débora Amorim
+**Full Stack Web Developer**
+
+Law graduate transitioning into technology, focused on building efficient, modern, and scalable web solutions. 
+
+---
+
 ### Connect with me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deboraamorim855@gmail.com)
